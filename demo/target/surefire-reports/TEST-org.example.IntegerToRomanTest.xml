@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.IntegerToRomanTest" time="0.035" tests="42" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Rostik\Tests\demo\target\test-classes;C:\Rostik\Tests\demo\target\classes;C:\Users\rosti\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\rosti\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\rosti\AppData\Local\Temp\surefire15259678214515032230\surefirebooter9568287104005696831.jar C:\Users\rosti\AppData\Local\Temp\surefire15259678214515032230 2024-10-23T20-17-30_420-jvmRun1 surefire17816411526217600170tmp surefire_03156894032233261200tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Rostik\Tests\demo\target\test-classes;C:\Rostik\Tests\demo\target\classes;C:\Users\rosti\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\rosti\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\rosti"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-10-15"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Rostik\Tests\demo"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\rosti\AppData\Local\Temp\surefire15259678214515032230\surefirebooter9568287104005696831.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.13+11"/>
+    <property name="user.name" value="rosti"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.13+11"/>
+    <property name="localRepository" value="C:\Users\rosti\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\rosti\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.13"/>
+    <property name="user.dir" value="C:\Rostik\Tests\demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Rostik\php-8.3.11;C:\Program Files\Maven\apache-maven-3.9.9\bin;C:\Users\rosti\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.5.11-hotspot\bin;C:\Users\rosti\AppData\Local\Microsoft\WindowsApps;C:\Users\rosti\.dotnet\tools;C:\Users\rosti\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rosti\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.13+11"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testEdgeCaseFourHundred" classname="org.example.IntegerToRomanTest" time="0.002"/>
+  <testcase name="testEightHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testOne" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testSix" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testTen" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testTwo" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testRandomOneHundredFortyFour" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEight" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testFifty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testForty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testSeven" classname="org.example.IntegerToRomanTest" time="0.001"/>
+  <testcase name="testSixty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testThree" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testRandomTwentySeven" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testFive" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testFour" classname="org.example.IntegerToRomanTest" time="0.001"/>
+  <testcase name="testNine" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testRandomNinetyNine" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testSixHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testFourHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testSevenHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testRandomFiftyEight" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEdgeCaseNinety" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testRandomEightNinety" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testThreeHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testThreeThousand" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testTwoHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEdgeCaseNineHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEdgeCaseFour" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEdgeCaseNine" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEighty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testNinety" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testSeventy" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testFiveHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testRandomNineteenNinetyFour" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testNineHundred" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testThirty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testTwenty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testEdgeCaseForty" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testThousand" classname="org.example.IntegerToRomanTest" time="0"/>
+  <testcase name="testTwoThousand" classname="org.example.IntegerToRomanTest" time="0.001"/>
+</testsuite>
